@@ -1,3 +1,9 @@
+:root {
+    font-family: "Alice", serif;
+    line-height: 150%;
+    color: #573a37;
+}
+
 body {
     background-image: url(assets/imagem_de_fundo.jpg);
     background-size: cover;
@@ -18,4 +24,15 @@ img {
     height: auto;
     display: block;
   
+}
+
+h1 {
+    line-height: 140%;
+    font-size: 40px;
+    color: #291b1a;
+}
+
+h2 {
+    font-size: 24px;
+    color: #291b1a;
 }
